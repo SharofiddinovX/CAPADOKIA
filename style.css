@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+ 
+    background-size: 1528px 738px;
+    margin-left: -14px;
+    margin-top: -9px;
+}
+.navbar{
+    width: 1528px;
+    height: 738px;
+    background-image: url(./Rectangle\ 43\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.navcontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: -1245px;
+}
+.links a {
+    text-decoration: none;
+    color: black;
+}
+.links {
+    gap: 35px;
+    margin-left: 170px;
+}
+.links a:hover {
+    text-decoration: underline;
+}
+.imgtel img {
+    width: 30px;
+    height: 30px;
+}
+.boxtel {
+    margin-right: 170px;
+}
+.textkappado {
+    margin-top: 150px;
+    font-size: 200px;
+    margin-left: 400px;
+    font-family: "Ephesis", cursive;
+}
+.textek {
+    margin-left: 800px;
+    margin-top: -300px;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 46px;
+}
+.bigheader {
+    margin-top: 150px;
+}
+.texthead2 {
+    font-family: "Ephesis", cursive;
+    font-weight: 400px;
+    font-size: 96px;
+    color: rgba(226, 171, 63, 1);
+    margin-right: 400px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.texthead {
+    margin-right: 80px;
+    margin-top: -40px;
+    font-weight: 300px;
+    font-style: italic;
+    font-size: 24px;
+}
+.cr7 {
+    margin-top: 150px;
+}
+.textcr7 {
+    font-family: "Ephesis", cursive;
+    color: rgba(226, 171, 63, 1);
+    font-weight: 400;
+    font-size: 96px;
+    margin-left: 200px;
+    margin-top: -300px;
+}
+.crcol {
+    height: 1095px;
+    margin-top: 300px;
+}
+.crcol img{
+    margin-top: -200px;
+}
+.textcr2 {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 24px;
+    color: black;
+    margin-top: 45px;
+    margin-left: -250px;
+}
+.textcl {
+    margin-top: 100px;
+}
+.button1 {
+    border: 1px solid rgba(226, 171, 63, 1);
+    background: rgba(255, 255, 255, 1);
+}
+.crcol button {
+    width: 280px;
+    height: 50px;
+    border-width: 1px;
+    margin-top: 80px;
+}
+.crcol img {
+    width: 744px;
+    height: 1095px;
+}
+.textbmw2 {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 24px;
+    color: black;
+    margin-top: -45px;
+    margin-left: 120px;
+}
+.textbmw7 {
+    font-family: "Ephesis", cursive;
+    color: rgba(226, 171, 63, 1);
+    font-weight: 400;
+    font-size: 96px;
+}
+.bmw{
+    margin-top: 150px;
+}
+.textbm{
+    margin-top: 165px;
+}
+.king{
+    margin-top: 150px;
+}
+.textking{
+    margin-top: 100px;
+}
+.textking2{
+    margin-top: 220px;
+}
+.imgpr{
+    margin-left: 680px;
+    margin-top: -630px;
+}
+.imgpr2{
+    margin-left: 880px;
+    margin-top: 30px;
+}
+.imgpr3{
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+.emile{
+    margin-top: 175px;
+}
+.textem2 {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 24px;
+    color: black;
+    margin-top: -45px;
+    margin-left: 120px;
+}
+.textem7 {
+    font-family: "Ephesis", cursive;
+    color: rgba(226, 171, 63, 1);
+    font-weight: 400;
+    font-size: 96px;
+}
+.textile2 {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 24px;
+    color: black;
+    margin-top: -45px;
+    margin-left: 20px;
+}
+.textile7 {
+    font-family: "Ephesis", cursive;
+    color: rgba(226, 171, 63, 1);
+    font-weight: 400;
+    font-size: 96px;
+    
+}
+.boxemile2{
+    margin-left: 100px;
+    font-size: 18px;
+}
+.emtextcol6{
+    font-size: 24px;
+    margin-top: 100px;
+}
+.in{
+    border: 1px solid rgba(226, 171, 63, 1);
+    width: 293px;
+    height: 50px;
+    padding: 10px;    
+}
+.in2{
+    border: 1px solid rgba(226, 171, 63, 1);
+    width: 293px;
+    height: 50px;
+    padding: 10px;
+}
+.button13{
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(226, 171, 63, 1);
+    width: 280px;
+    height: 50px;
+    margin-left: 0px;
+}
+.footer{
+    width: 1103px;
+    height: 738px;
+    background-image: url(./Rectangle\ 42.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1513px 738px;
+    
+}
+.imgfot img{
+    width: 356px;
+    height: 527px;  
+}
+.texfot{
+    font-family: "Ephesis", cursive;
+    color: rgba(226, 171, 63, 1);
+    font-weight: 400;
+    font-size: 96px;
+    margin-top: -500px;
+    margin-left: 35px;
+}
+.telboxfot{
+    margin-left: 90px;
+}
+.mailboxfot{
+    margin-left: 60px;
+}
+.yofain{
+    margin-left: 110px;
+}
+.colfontfot{
+    font-family: "Ephesis", cursive;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 66px;
+    margin-top: 200px;
+}
