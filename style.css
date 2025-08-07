@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .navbar {
  
     background-size: 1528px 738px;
@@ -104,7 +105,7 @@
     margin-top: -50px;
 }
 .imgm1{
-    margin-left: 50px;
+    margin-left: 0px;
 }
 .bit1{
     width: 150px;
@@ -174,5 +175,5 @@
     list-style: none;
     text-decoration: none;
     color: #000000;
-    margin-left:-20px;
+    margin-right: 30px;
 }
